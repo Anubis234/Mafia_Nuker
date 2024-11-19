@@ -40,7 +40,7 @@ To install and run Mafia Nuker:
 
 4. **Run the tool**:
    ```bash
-   python Mafia_Nuke1r.py
+   ./Mafia_Nuke1r
    ```
 
 ---
@@ -57,7 +57,7 @@ bash: ./Mafia_Nuker: Permission denied
    chmod +x Mafia_Nuke1r
    ```
 
-2. **Run the tool**:
+2. **Rerun the tool**:
    ```bash
    ./Mafia_Nuke1r
    ```
